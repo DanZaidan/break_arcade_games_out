@@ -1,7 +1,10 @@
-# break_arcade_games_out
+# Break Arcade Games Out
 What if Breakout was the only arcade game people could make? An open-source game, written entirely on a live stream.
+
 Game on Steam: https://store.steampowered.com/app/1145020/Break_Arcade_Games_Out/
+
 Livestream playlist on Youtube: https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH
+
 
 # About the Source code
 
